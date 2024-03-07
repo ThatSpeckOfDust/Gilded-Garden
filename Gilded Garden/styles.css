@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: dancingScript;
+    src: url(fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf);
+}
+
+h1{
+    font-size: 7em;
+    font-family: 'dancingScript', sans-serif;
+}
